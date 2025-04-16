@@ -14,6 +14,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/althonos/pyorthoani.svg?style=flat-square&maxAge=600)](https://github.com/althonos/pyorthoani/issues)
 [![Changelog](https://img.shields.io/badge/keep%20a-changelog-8A0707.svg?maxAge=2678400&style=flat-square)](https://github.com/althonos/pyorthoani/blob/master/CHANGELOG.md)
 [![Downloads](https://img.shields.io/pypi/dm/pyorthoani?style=flat-square&color=303f9f&maxAge=86400&label=downloads)](https://pepy.tech/project/pyorthoani)
+[![Preprint](https://img.shields.io/badge/preprint-bioRxiv-darkblue?style=flat-square&maxAge=2678400)](https://www.biorxiv.org/content/10.1101/2025.02.13.638148v1)
 
 
 ## 🗺️ Overview
