@@ -14,7 +14,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/althonos/pyorthoani.svg?style=flat-square&maxAge=600)](https://github.com/althonos/pyorthoani/issues)
 [![Changelog](https://img.shields.io/badge/keep%20a-changelog-8A0707.svg?maxAge=2678400&style=flat-square)](https://github.com/althonos/pyorthoani/blob/master/CHANGELOG.md)
 [![Downloads](https://img.shields.io/pypi/dm/pyorthoani?style=flat-square&color=303f9f&maxAge=86400&label=downloads)](https://pepy.tech/project/pyorthoani)
-[![Preprint](https://img.shields.io/badge/preprint-bioRxiv-darkblue?style=flat-square&maxAge=2678400)](https://www.biorxiv.org/content/10.1101/2025.02.13.638148v1)
+[![Paper](https://img.shields.io/badge/paper-nargab%2Flqaf095-darkblue?style=flat-square&maxAge=2678400)](https://academic.oup.com/nargab/article/7/3/lqaf095/8196481)
 
 
 ## 🗺️ Overview
@@ -90,10 +90,12 @@ at the sub-percent level, while this library uses the full values.
 If you found PyOrthoANI useful, please cite [our paper](https://academic.oup.com/nargab/article/7/3/lqaf095/8196481), as well as the original [OrthoANI paper](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000760#tab2).
 
 To cite PyOrthoANI:
-> Martin Larralde, Georg Zeller, Laura M. Carroll. 2025. PyOrthoANI, PyFastANI, and Pyskani: a suite of Python libraries for computation of average nucleotide identity. *NAR Genomics and Bioinformatics* 7(3):lqaf095. doi: 10.1093/nargab/lqaf095.
+
+> Martin Larralde, Georg Zeller, Laura M. Carroll. 2025. PyOrthoANI, PyFastANI, and Pyskani: a suite of Python libraries for computation of average nucleotide identity. *NAR Genomics and Bioinformatics* 7(3):lqaf095. doi:10.1093/nargab/lqaf095.
 
 To cite OrthoANI:
-> Imchang Lee, Yeong Ouk Kim, Sang-Cheol Park, Jongsik Chun. 2016. OrthoANI: An improved algorithm and software for calculating average nucleotide identity. *International Journal of Systematic and Evolutionary Microbiology* 66(2):1100-1103. doi: 10.1099/ijsem.0.000760.
+
+> Imchang Lee, Yeong Ouk Kim, Sang-Cheol Park, Jongsik Chun. 2016. OrthoANI: An improved algorithm and software for calculating average nucleotide identity. *International Journal of Systematic and Evolutionary Microbiology* 66(2):1100-1103. doi:10.1099/ijsem.0.000760.
 
 ## 📜 About
 
